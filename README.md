@@ -2,20 +2,18 @@
 
 To complete this homework you should use the Git workflow you've been learning this week.
 
-1. Fork this repository to create a version where you are the owner
-2. Clone the fork to your local machine
-3. Open the local repository in VSCode
-4. In VSCode, create a local branch called `bio-page`
-5. Create a new file called `FIRSTNAME_LASTNAME.md`
+1. In VSCode, create a local branch called `bio-page`
+2. Create a new file called `FIRSTNAME_LASTNAME.md`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
-6. In this file, write an introduction yourself. You should include:
+3. In this file, write an introduction yourself. You should include:
    1. Your name
    2. Your favourite sport and why you like it
    3. Your favourite food and why it's your favourite
    4. A link to a video of your favourite music
    5. An interesting fact about yourself - impress us!
-7. `Commit` the file to your branch
-8. `Push` the branch `bio-page` to your fork
+4. `Commit` the file to your branch
+5. `Merge` the branch `bio-page` to your `main` branch.
+6. `Commit` and `push` the `main` branch to submit your homework.
 
 ## Creating a pull request
 
@@ -34,7 +32,7 @@ https://github.com/CodeYourFuture/GitHomeworkTest/pull/1
 
 ## Asking for Help
 
-If you've had problems with any of the steps above, ask for help on Slack - another trainee or a volunteer will be able to help you!
+If you've had problems with any of the steps above, ask for help on Slack - another student or a volunteer will be able to help you!
 
 When you ask for help you should always say what exactly isn't working
 
